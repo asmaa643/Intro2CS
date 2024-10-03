@@ -1,10 +1,8 @@
 #################################################################
 # FILE : math_print.py
-# WRITER : Asmaa Ghrayeb , asmaa.ghrayeb , 212017719
+# WRITER : Asmaa Ghrayeb
 # EXERCISE : intro2cse ex1 2021
 # DESCRIPTION: A simple program that calculate different values
-# STUDENTS I DISCUSSED THE EXERCISE WITH: None
-# WEB PAGES I USED: None
 # NOTES: (nothing)
 #################################################################
 

@@ -1,10 +1,8 @@
 #################################################################
 # FILE : ex3.py
-# WRITER : Asmaa Ghrayeb , asmaa.ghrayeb , 212017719
+# WRITER : Asmaa Ghrayeb
 # EXERCISE : intro2cse ex3 2021
 # DESCRIPTION: A simple program that has different required functions.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: None
-# WEB PAGES I USED: None
 # NOTES: I used some help functions to simplify else functions.
 #################################################################
 

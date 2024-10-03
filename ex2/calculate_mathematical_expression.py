@@ -1,10 +1,8 @@
 #################################################################
 # FILE : calculate_mathematical_expression.py
-# WRITER : Asmaa Ghrayeb , asmaa.ghrayeb , 212017719
+# WRITER : Asmaa Ghrayeb
 # EXERCISE : intro2cse ex2 2021
 # DESCRIPTION: A simple program that calculates mathematical expressions.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: None.
-# WEB PAGES I USED:None
 # NOTES: Nothing
 #################################################################
 

@@ -1,10 +1,8 @@
 #################################################################
 # FILE : quadratic_equation.py
-# WRITER : Asmaa Ghrayeb , asmaa.ghrayeb , 212017719
+# WRITER : Asmaa Ghrayeb
 # EXERCISE : intro2cse ex2 2021
 # DESCRIPTION: A simple program that solves a quadratic equation.
-# STUDENTS I DISCUSSED THE EXERCISE WITH: None.
-# WEB PAGES I USED:None
 # NOTES: Nothing
 #################################################################
 def quadratic_equation(a, b, c):
